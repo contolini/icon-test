@@ -22,6 +22,8 @@
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+
+  content: " ";
 }
 
 .cf-icon-uniE000:before {

@@ -22,10 +22,10 @@
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-
-  content: " ";
 }
-
+.cf-icon-uniE000:before {
+	content: " ";
+}
 .cf-icon-uniE000:before {
 	content: "\e000";
 }
